@@ -1,0 +1,22 @@
+
+{
+    "name": "TRESIATLAS Token List",
+    "timestamp": "2025-11-06T00:00:00Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 137,
+            "address": "0xCab09b08fbD11C00B999C6cD1D51CF933bC1F46e",
+            "name": "TRESIATLAS",
+            "symbol": "3IATLAS",
+            "decimals": 18,
+            "logoURI": "Logo%20dorado%20con%20estrella%20fugaz.png"
+
+
+    ]
+}
+
