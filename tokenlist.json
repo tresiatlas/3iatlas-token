@@ -1,6 +1,6 @@
 {
   "name": "TRESIATLAS Token List",
-  "timestamp": "2025-11-06T00:00:00Z",
+  "timestamp": "2025-01-06T00:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -9,12 +9,11 @@
   "tokens": [
     {
       "chainId": 137,
-      "address": "0xCaB09b08fbD11C00B999C6cD1D51CF933bC1F46e",
+      "address": "0xCab09b08fbD11C00B999C6cD1D51CF933bC1F46e",
       "name": "TRESIATLAS",
       "symbol": "3IATLAS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/tresiatlas/3iatlas-token/main/3ia.png"
-
     }
   ]
 }
